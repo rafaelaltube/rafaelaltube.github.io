@@ -1,8 +1,7 @@
-[![License][license-image]][license-url]
-
 # rafaelaltube.github.io
 
 > A utility website temporally by GitHub Pages.  
+
 
 ## Contact
 

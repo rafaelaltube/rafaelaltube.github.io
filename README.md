@@ -1,4 +1,4 @@
-[![Twitter][twitter-image]][twitter-url]
+[![https://twitter.com/RafaelAltube][twitter-image]][twitter-url]
 [![License][license-image]][license-url]
 
 # rafaelaltube.github.io

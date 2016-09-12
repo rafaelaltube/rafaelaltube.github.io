@@ -1,4 +1,4 @@
-[![twitter-url](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000?style=flat-square)]()
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)][twitter-url]
 [![License][license-image]][license-url]
 
 

@@ -1,4 +1,4 @@
-[![https://twitter.com/RafaelAltube](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000?style=flat-square)]()
+[![twitter-url](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000?style=flat-square)]()
 [![License][license-image]][license-url]
 
 

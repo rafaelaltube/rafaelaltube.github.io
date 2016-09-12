@@ -1,7 +1,9 @@
 [![License][license-image]][license-url]
 
 # rafaelaltube.github.io
-> A utility script for doing http2 push and/or preload. 
 
+> A utility website temporally by GitHub Pages.  
+
+## Contact
 
 rafael.altubevera@gmail.com

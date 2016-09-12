@@ -1,6 +1,6 @@
-[![https://twitter.com/RafaelAltube][twitter-image]][twitter-url]
+[![https://twitter.com/RafaelAltube](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000?style=flat-square)]()
 [![License][license-image]][license-url]
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000?style=flat-square)]()
+
 
 # rafaelaltube.github.io
 

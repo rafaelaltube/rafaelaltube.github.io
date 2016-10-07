@@ -1067,7 +1067,7 @@ output {
 .label {
   border-radius: 2px;
 }
-.label-tech{
+.label-line-custom{
   line-height: 28px;
 }
 .label, .label.label-default {
@@ -1692,7 +1692,7 @@ legend {
 }
 .navbar .navbar-nav > li > a .material-icons,
 .navbar .navbar-nav > li > a .fa {
-  font-size: 20px;
+  font-size: 22px;
   margin-top: -3px;
   margin-right: 3px;
   margin: -3px 4px 0 4px;
@@ -2599,7 +2599,7 @@ h6, .h6 {
   color: #999999;
 }
 .card .content {
-  padding: 15px 30px;
+  padding: 10px 20px;
 }
 .card .card-body {
   height: 30%;

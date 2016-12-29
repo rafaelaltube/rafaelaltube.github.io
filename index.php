@@ -1,4 +1,4 @@
-<?php header("Location: ./es/index.html"); ?>
+<?php header("Location: ./es/index.html"); echo "hola"; ?>
 <!doctype html>
 <html lang="en">
 <head>

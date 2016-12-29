@@ -1,4 +1,3 @@
-<?php header("Location: ./es/index.html"); echo "hola"; ?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -20,6 +19,7 @@
 
 </body>
 <script type="text/javascript">
+window.location.replace("http://rafaelaltube.github.io/en/");
 	window.console.log("%c%s","color: red; background: yellow; font-size: 24px;","ADVERTENCIA");
 	window.console.log("%c%s","color: black; font-size: 18px;","Si utilizas esta consola, otras personas podr\u00edan hacerse pasar por ti y robarte datos mediante un ataque Self-XSS.\nNo escribas ni pegues ning\u00fan c\u00f3digo que no entiendas.");
 </script>
